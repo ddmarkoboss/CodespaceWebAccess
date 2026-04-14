@@ -11,7 +11,7 @@ class handler(BaseHTTPRequestHandler):
 
         # 2. Setup your Codespace details
         # Replace 'YOUR-CODESPACE-NAME' with your actual name
-        codespace_name = "supreme-space-umbrella-x4v" 
+        codespace_name = "glorious-goggles-wr5gj9rq5j69h9wqw" 
         listener_url = f"https://{codespace_name}-5000.app.github.dev/run"
 
         # 3. Forward the command to the Codespace
